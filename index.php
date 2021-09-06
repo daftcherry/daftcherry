@@ -3,11 +3,17 @@
 
   <body>
     <div>
-      <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
- <ins class="adsbyexoclick" data-zoneid="4366394"></ins> 
- <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
-<iframe src="//a.realsrv.com/iframe.php?idzone=4366382&size=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-    <iframe src="//a.realsrv.com/iframe.php?idzone=4366392&size=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-      </div>
+      <script type="application/javascript" src="https://a.realsrv.com/video-slider.js"></script>
+<script type="application/javascript">
+var adConfig = {
+    "idzone": 4415448,
+    "frequency_period": 0,
+    "close_after": 0,
+    "on_complete": "repeat",
+    "branding_enabled": 1,
+    "screen_density": 25
+};
+ExoVideoSlider.init(adConfig);
+</script></div>
       </body>
 </html>
